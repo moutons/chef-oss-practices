@@ -4,7 +4,7 @@
 
  * Interact with the community through Issue and Pull Request triage.
  * Help educate users on code standards in the project.
- * Help keep documentation and README's updated.
+ * Help keep documentation and READMEs updated.
 
 ## Slack and Discourse
 

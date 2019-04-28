@@ -126,7 +126,7 @@ person(s) assigned to each role:
 
 | Role                | Name                     | Contact Info           |
 | ------------------- | ------------------------ | ---------------------- |
-| Decider             | Jenny Armstrong-Own      | jowen@chef.io           |
+| Decider             | Jenny Armstrong-Owen     | jowen@chef.io          |
 | Community Advocate  | Mandi Walls              | mandi@chef.io          |
 | Community Advocate  | Nell Shamrell-Harrington | nshamrell@chef.io      |
 | Community Advocate  | Robb Kidd                | rkidd@chef.io          |

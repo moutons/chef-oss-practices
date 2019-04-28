@@ -54,7 +54,7 @@ Harassment comes in many forms, including but not limited to:
   - Sustained disruption of talks or other events
   - Inappropriate physical contact or unwelcome sexual attention
   - Posting (or threatening to post) other people’s personally identifying information (“doxing”)
-  - Advocation for, or encouraging, any of the above behavior
+  - Advocating for, or encouraging, any of the above behavior
 
 Participants asked to stop any harassing behavior are expected to comply
 immediately. Further unacceptable behavior will result in escalating sanctions.
