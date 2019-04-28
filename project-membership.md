@@ -49,7 +49,7 @@ Reviewer status is scoped to a project.
 
 ### Chef Software Ecosystem
 
-There are many interrelated [Chef Software GitHub organizations], such as [habitat-sh](https://github.com/habitat-sh/habitat), [chef](https://github.com/chef), and [inspec](https://github.com/chef/inspec). Membership to one of these organizations doesn't inherently grant membership to another, however the perks and membership process are uniform no matter what organization or Chef Software Inc. project you contribute to.
+There are many interrelated [Chef Software GitHub organizations], such as [habitat-sh](https://github.com/habitat-sh/habitat), [chef](https://github.com/chef), and [inspec](https://github.com/chef/inspec). Membership to one of these organizations doesn't inherently grant membership to another, however the responsibilities and membership process are uniform no matter what organization or Chef Software Inc. project you contribute to.
 
 ### Responsibilities and Privileges
 
